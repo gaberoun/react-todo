@@ -5,4 +5,5 @@ A simple todo list using ReactTS and styled with Bootstrap
 1. Add todo
 2. Mark completed
 3. Delete todo
-4. Toggle editing mode 
+4. Toggle editing mode
+5. Filter completed
